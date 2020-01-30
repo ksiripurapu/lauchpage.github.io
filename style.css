@@ -1,0 +1,119 @@
+/*.menuitems {
+
+	border: 5px solid grey;
+	display: inline-flex;
+	flex-wrap: wrap;
+	padding:20px 5px 20px 5px;
+	margin: 20px;
+	transition: all 1s;
+}
+
+h1{
+
+	border: 1px solid blue;
+	width: 300px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	transition: all 1s;
+
+}
+
+h1:hover
+{
+
+transform: scale(1.05);
+
+}
+.menuitems:hover
+{
+
+	transform: scale(1.1);
+}
+
+.imagebox {
+
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+
+}
+
+img{
+
+	width: 400px;
+	height: 250px;
+	margin:10px;
+	border: 1px solid blue;
+	transition: all 1s;
+}
+
+img:hover
+{
+
+transform: scale(1.05);
+
+}*/
+
+/*.bannercontent {
+
+	display: flex;
+	align-items: center;
+	
+	flex-wrap:wrap;
+}*/
+
+
+
+h1 {
+/*display: flex;
+flex-wrap:wrap;*/
+color: white;
+/*justify-content: center;
+align-content: center;*/
+}
+
+
+
+body,
+html { 
+
+	width: 140%;
+	height: 100%;
+  background: url(laptop.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+hr {
+
+		border-color:orange;
+		border-width: 3px;
+		max-width: 65px;
+}
+
+
+.btn-xl
+{
+
+padding: 1rem 2rem;
+
+}
+
+.btn {
+
+	font-size: 700;
+	border-radius: 300px;
+}
+
+.buffer
+{
+height:10rem;
+
+}
+/*.col {
+
+	background-color: grey;
+	border: 2px solid black;
+}*/
